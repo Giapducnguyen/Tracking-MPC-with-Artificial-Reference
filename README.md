@@ -5,4 +5,4 @@ Perhaps the most confusing part is how to compute the set $\mathcal{O}_{\infty, 
 
 Gilbert, Elmer G., and K. Tin Tan. "Linear systems with state and control constraints: The theory and application of maximal output admissible sets." IEEE Transactions on Automatic control 36.9 (1991): 1008-1020.
 
-It is noted that MATLAB function \tt{fmincon} was used for fast prototyping. However, QP solvers can be used instead since the problem is linear.
+It is noted that MATLAB function \texttt{fmincon} was used for fast prototyping. However, QP solvers can be used instead since the problem is linear.
