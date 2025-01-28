@@ -3,14 +3,4 @@ This repository contains the file reproducing the simulation results of the pape
 
 Perhaps the most confusing part is how to compute the set $\mathcal{O}_{\infty, \lambda}^{w}$. For that reason, it is recommended to read the following paper:
 
-### Citation (BibTeX)
-@article{gilbert1991linear,
-  title={Linear systems with state and control constraints: The theory and application of maximal output admissible sets},
-  author={Gilbert, Elmer G and Tan, K Tin},
-  journal={IEEE Transactions on Automatic control},
-  volume={36},
-  number={9},
-  pages={1008--1020},
-  year={1991},
-  publisher={IEEE}
-}
+Gilbert, Elmer G., and K. Tin Tan. "Linear systems with state and control constraints: The theory and application of maximal output admissible sets." IEEE Transactions on Automatic control 36.9 (1991): 1008-1020.
