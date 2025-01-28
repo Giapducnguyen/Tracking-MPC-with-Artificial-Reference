@@ -4,3 +4,5 @@ This repository contains the file reproducing the simulation results of the pape
 Perhaps the most confusing part is how to compute the set $\mathcal{O}_{\infty, \lambda}^{w}$. For that reason, it is recommended to read the following paper:
 
 Gilbert, Elmer G., and K. Tin Tan. "Linear systems with state and control constraints: The theory and application of maximal output admissible sets." IEEE Transactions on Automatic control 36.9 (1991): 1008-1020.
+
+It is noted that MATLAB function \tt{fmincon} was used for fast prototyping. However, QP solvers can be used instead since the problem is linear.
